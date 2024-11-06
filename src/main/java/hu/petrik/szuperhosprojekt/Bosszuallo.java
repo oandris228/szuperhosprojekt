@@ -55,7 +55,7 @@ abstract class Bosszuallo implements Szuperhos {
     }
 
     @Override
-    public float mekkoraAzEreje() {
+    public double mekkoraAzEreje() {
         return szuperero;
     }
 }
